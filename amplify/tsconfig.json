@@ -7,9 +7,6 @@
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
-    "compilerOptions": {
-      "jsx": "react-jsx"
-    },
     "skipLibCheck": true,
     "paths": {
       "$amplify/*": [
